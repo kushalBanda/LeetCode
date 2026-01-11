@@ -1,7 +1,9 @@
 Memory/*
 __pycache__/*
-CLAUDE.md
 .DS_Store
+GEMINI.md
+AGENT.md
+CLAUDE.md
 .clinerules/byterover-rules.md
 .kilocode/rules/byterover-rules.md
 .roo/rules/byterover-rules.md

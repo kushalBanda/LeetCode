@@ -8,7 +8,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-**A high-performance collection of algorithms and data structures implemented in Python.**
+**A high-performance collection of algorithms and data structures implemented in Python & Go.**
 
 [Explore Solutions](#-solutions-log) • [Getting Started](#-getting-started) • [Contributing](#-contributing)
 

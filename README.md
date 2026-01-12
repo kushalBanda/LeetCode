@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-15-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-16-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-orange?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
@@ -71,6 +71,7 @@ python3 twoSum.py
 | 0001 | **Two Sum**                                  |  🟢 Easy  |                            [Python](./LeetCode/1.%20Two%20Sum/twoSum.py)                            | Array, Hash Table    |
 | 0009 | **Palindrome Number**                        |  🟢 Easy  |                  [Python](./LeetCode/9.%20Palindrome%20Number/palindromeNumber.py)                  | Math                 |
 | 0013 | **Roman to Integer**                         |  🟢 Easy  |                  [Python](./LeetCode/13.%20Roman%20to%20Integer/romanToInteger.py)                  | Hash Table, Math     |
+| 0014 | **Longest Common Prefix**                    |  🟢 Easy  | [Python](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.py), [Go](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.go) | String               |
 | 0015 | **3Sum**                                     | 🟡 Medium |                               [Python](./LeetCode/15.%203Sum/3Sum.py)                               | Array, Two Pointers  |
 | 0058 | **Length of Last Word**                      |  🟢 Easy  | [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py), [Go](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.go) | String               |
 | 0125 | **Valid Palindrome**                         |  🟢 Easy  |                  [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py)                  | Two Pointers, String |

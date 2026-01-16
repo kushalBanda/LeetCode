@@ -80,3 +80,5 @@ PATCH /ride/driver/update
 
 
 ## High Level Design
+
+![High Level Design](../assets/uber/HighLevel.png)

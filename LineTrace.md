@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 66
+- Total Files: 68
 - Total Directories: 39
-- File Extensions: .md: 9, .png: 27, .py: 27, .go: 2
+- File Extensions: .md: 10, .png: 27, .py: 27, .java: 1, .go: 2
 
 ### Directory Tree
 ```
@@ -20,7 +20,8 @@
    │  │  └── reverseVowels.py
    │  ├── 53. Maximum Subarray
    │  │  ├── maxSubArray.png
-   │  │  └── maxSubArray.py
+   │  │  ├── maxSubArray.py
+   │  │  └── maxSubArray.java
    │  ├── 58. Length of Last Word
    │  │  ├── lengthOfLastWord.png
    │  │  ├── lengthOfLastWord.py
@@ -101,6 +102,7 @@
    │  └── 2. missingNumber
    │    ├── Missing Number.png
    │    └── Missing Number.py
+  ├── LineTrace.md
   ├── GEMINI.md
   ├── AGENTS.md
   ├── CLAUDE.md

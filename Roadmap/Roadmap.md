@@ -1,6 +1,3 @@
-
----
-
 ## 📊 DSA Roadmap - Topics, Priority & What to Practice
 
 | **#** | **Topic / Category**                     | **Why It Matters**                     | **Core Concepts / Subtopics**                 | **Typical Patterns/Problems**                                                        |

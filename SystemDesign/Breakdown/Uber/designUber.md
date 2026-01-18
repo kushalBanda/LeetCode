@@ -78,7 +78,27 @@ PATCH /ride/driver/update
 }
 ```
 
-
 ## High Level Design
 
 ![High Level Design](../assets/uber/HighLevel.png)
+
+## QuadTrees (PostGIS)
+
+- Choose this when the distribution is uneven or uneven density and also when theres no high frequency of updates.
+
+![QuadTrees](../assets/uber/QuadTrees.png)
+
+## Geohashing (Redis)
+
+- Indiscriminate in-terms of density, the world is split into evenly precise boxes
+- Really god for high frequency of updates
+
+![Geohashing](../assets/uber/Geohasing.png)
+
+## Note
+
+Uber uses H3: Uber’s Hexagonal Hierarchical Spatial Index.
+
+Read more: https://www.uber.com/en-IN/blog/h3/
+
+Github: https://github.com/uber/h3

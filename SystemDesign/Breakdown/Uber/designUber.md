@@ -97,8 +97,7 @@ PATCH /ride/driver/update
 
 ## Note
 
-Uber uses H3: Uber’s Hexagonal Hierarchical Spatial Index.
+Uber uses **H3**: Uber’s Hexagonal Hierarchical Spatial Index.
 
-Read more: https://www.uber.com/en-IN/blog/h3/
-
-Github: https://github.com/uber/h3
+- **Read more**: [Uber’s Hexagonal Hierarchical Spatial Index](https://www.uber.com/en-IN/blog/h3/)
+- **GitHub**: [uber/h3](https://github.com/uber/h3)

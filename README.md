@@ -71,6 +71,7 @@ A collection of strictly typed, efficient solutions.
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |
 | 0345 | **Reverse Vowels of a String** | 🟢 Easy | [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py) | Two Pointers, String |
+| 0560 | **Subarray Sum Equals K** | 🟡 Medium | [Python](./LeetCode/560.%20Subarray%20Sum%20Equals%20K/subarraySum.py) | Array, Hash Table, Prefix Sum |
 | 0605 | **Can Place Flowers** | 🟢 Easy | [Python](./LeetCode/605.%20Can%20Place%20Flowers/canPlaceFlowers.py) | Array, Greedy |
 | 0876 | **Middle of the Linked List** | 🟢 Easy | [Python](./LeetCode/876.%20Middle%20of%20the%20Linked%20List/middleNode.py) | Linked List, Two Pointers |
 | 1071 | **Greatest Common Divisor of Strings** | 🟢 Easy | [Python](./LeetCode/1071.%20Greatest%20Common%20Divisor%20of%20Strings/gcdOfStrings.py) | Math, String |

@@ -73,6 +73,7 @@ A collection of strictly typed, efficient solutions.
 | 0345 | **Reverse Vowels of a String** | 🟢 Easy | [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py) | Two Pointers, String |
 | 0560 | **Subarray Sum Equals K** | 🟡 Medium | [Python](./LeetCode/560.%20Subarray%20Sum%20Equals%20K/subarraySum.py) | Array, Hash Table, Prefix Sum |
 | 0605 | **Can Place Flowers** | 🟢 Easy | [Python](./LeetCode/605.%20Can%20Place%20Flowers/canPlaceFlowers.py) | Array, Greedy |
+| 0680 | **Valid Palindrome II** | 🟢 Easy | [Python](./LeetCode/680.%20Valid%20Palindrome%20II/validPalindrome.py) | String, Two Pointers |
 | 0876 | **Middle of the Linked List** | 🟢 Easy | [Python](./LeetCode/876.%20Middle%20of%20the%20Linked%20List/middleNode.py) | Linked List, Two Pointers |
 | 1071 | **Greatest Common Divisor of Strings** | 🟢 Easy | [Python](./LeetCode/1071.%20Greatest%20Common%20Divisor%20of%20Strings/gcdOfStrings.py) | Math, String |
 | 1431 | **Kids With the Greatest Number of Candies** | 🟢 Easy | [Python](./LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/kidsWithCandies.py) | Array |
@@ -89,6 +90,16 @@ Analysis of the fundamental trade-offs in distributed systems.
 - **Core Concepts:** Consistency, Availability, and Partition Tolerance.
 - **Trade-offs:** Exploring CA, AP, and CP configurations.
 - **Real-world Examples:** Insights into DynamoDB and Google Spanner.
+
+### 🔌 **[API Design](./SystemDesign/API%20Design/apiDesign.md)**
+Principles of building effective APIs.
+- **Styles:** REST, GraphQL, RPC.
+- **Key Concepts:** Pagination, Rate Limiting, Security, Versioning.
+
+### 💾 **[Data Modelling](./SystemDesign/Data%20Modelling/dataModelling.md)**
+Techniques for efficient data storage and retrieval.
+- **Models:** Relational vs. NoSQL (Document, Graph, Key-Value).
+- **Optimization:** Indexing, Normalization vs. Denormalization.
 
 ### 🚗 **[Design Uber](./SystemDesign/Breakdown/Uber/designUber.md)**
 A comprehensive analysis of a ride-sharing platform.

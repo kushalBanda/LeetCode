@@ -2,6 +2,10 @@
 
 A cache is just a temporary storage that keeps recently used data handy so you can get it much faster next time.
 
+### When to Bring Up Caching?
+
+![When to Bring Up Caching](assets/When%20to%20Bring%20Up%20Caching.png)
+
 ### Caching in Memory
 
 ![Caching](assets/Caching.png)

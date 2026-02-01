@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 68
-- Total Directories: 39
-- File Extensions: .md: 10, .png: 27, .py: 27, .java: 1, .go: 2
+- Total Files: 120
+- Total Directories: 57
+- File Extensions: .md: 14, .png: 68, .py: 34, .java: 1, .go: 2
 
 ### Directory Tree
 ```
@@ -15,6 +15,10 @@
    │  ├── 15. 3Sum
    │  │  ├── 3Sum.png
    │  │  └── 3Sum.py
+   │  ├── 169. Majority Element
+   │  │  ├── majorityElement.py
+   │  │  ├── majorityElement.png
+   │  │  └── majorElement_2.py
    │  ├── 345. Reverse Vowels of a String
    │  │  ├── reverseVowels.png
    │  │  └── reverseVowels.py
@@ -38,6 +42,12 @@
    │  ├── 344. Reverse String
    │  │  ├── reverseString.py
    │  │  └── reverseString.png
+   │  ├── 680. Valid Palindrome II
+   │  │  ├── validPalindrome.py
+   │  │  └── validPalindrome.png
+   │  ├── 217. Contains Duplicate
+   │  │  ├── containsDuplicate.png
+   │  │  └── containsDuplicate.py
    │  ├── 605. Can Place Flowers
    │  │  ├── canPlaceFlowers.py
    │  │  └── canPlaceFlowers.png
@@ -48,6 +58,9 @@
    │  │  ├── longestCommonPrefix.png
    │  │  ├── longestCommonPrefix.py
    │  │  └── longestCommonPrefix.go
+   │  ├── 560. Subarray Sum Equals K
+   │  │  ├── subarraySum.py
+   │  │  └── subarraySum.png
    │  ├── 1071. Greatest Common Divisor of Strings
    │  │  ├── gcdOfStrings.py
    │  │  └── gcdOfStrings.png
@@ -69,6 +82,13 @@
    │  └── 125. Valid Palindrome
    │    ├── validPalindrome.py
    │    └── validPalindrome.png
+  ├── reCode
+   │  ├── 560. Subarray Sum Equals K
+   │  │  ├── subarraySum.py
+   │  │  └── subarraySum.png
+   │  └── 1071. Greatest Common Divisor of Strings
+   │    ├── gcdOfStrings.py
+   │    └── gcdOfStrings.png
   ├── README.md
   ├── DesignPatterns
    │  ├── Creational
@@ -107,12 +127,62 @@
   ├── AGENTS.md
   ├── CLAUDE.md
   └── SystemDesign
-     └── Breakdown
-        ├── Uber
-         │  └── designUber.md
+     ├── systemDesignFlow.png
+     ├── Breakdown
+      │  ├── Uber
+      │  │  └── designUber.md
+      │  └── assets
+      │    └── uber
+      │       ├── Geohasing.png
+      │       ├── QuadTrees.png
+      │       ├── HighLevel.png
+      │       └── uber.png
+     ├── Data Modelling
+      │  ├── dataModelling.md
+      │  └── assets
+      │    ├── Scaling and Sharding.png
+      │    ├── Wide Column DB.png
+      │    ├── Relational DB.png
+      │    ├── Normalization vs Denormalization.png
+      │    ├── Entities, Key & Relationships.png
+      │    ├── Indexing.png
+      │    ├── Graph DB.png
+      │    ├── Wrapping up.png
+      │    ├── Key Value.png
+      │    └── Document DB.png
+     ├── CAP Theorem
+      │  └── CAP.md
+     ├── Caching
+      │  ├── Caching.md
+      │  └── assets
+      │    ├── Where to cache
+      │     │  ├── External Caching.png
+      │     │  ├── Client-side Caching.png
+      │     │  ├── CDN.png
+      │     │  └── In-Process Caching.png
+      │    ├── Common Issues
+      │     │  ├── 2. Cache Consistency.png
+      │     │  ├── 3. Hot Keys.png
+      │     │  └── 1. Cache Stampede (Thundering Herd).png
+      │    ├── Cache Eviction Policies
+      │     │  └── Cache Eviction Policies.png
+      │    ├── Cache Architecture
+      │     │  ├── 4. Read-through.png
+      │     │  ├── 2. Write-through.png
+      │     │  ├── 1. Cache-Aside.png
+      │     │  └── 3. Write-behind.png
+      │    ├── When to Bring Up Caching.png
+      │    └── Caching.png
+     └── API Design
+        ├── apiDesign.md
         └── assets
-           └── uber
-              ├── HighLevel.png
-              └── uber.png
+           ├── HTTP Methods.png
+           ├── Pagination.png
+           ├── GraphQL.png
+           ├── API.png
+           ├── REST.png
+           ├── RPC.png
+           ├── Security.png
+           └── Responses.png
 ```
 

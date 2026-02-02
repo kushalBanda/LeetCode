@@ -64,9 +64,11 @@ A collection of strictly typed, efficient solutions.
 | 0015 | **3Sum** | 🟡 Medium | [Python](./LeetCode/15.%203Sum/3Sum.py) | Array, Two Pointers |
 | 0053 | **Maximum Subarray** | 🟡 Medium | [Python](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.py), [Java](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.java) | Array, Dynamic Programming, Divide and Conquer |
 | 0058 | **Length of Last Word** | 🟢 Easy | [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py), [Go](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.go) | String |
+| 0121 | **Best Time to Buy and Sell Stock** | 🟢 Easy | [Python](./LeetCode/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/maxProfit.py) | Array, Dynamic Programming |
 | 0125 | **Valid Palindrome** | 🟢 Easy | [Python](./LeetCode/125.%20Valid%20Palindrome/validPalindrome.py) | Two Pointers, String |
 | 0151 | **Reverse Words in a String** | 🟡 Medium | [Python](./LeetCode/151.%20Reverse%20Words%20in%20a%20String/reverseWords.py) | String, Two Pointers |
 | 0167 | **Two Sum II - Input Array Is Sorted** | 🟡 Medium | [Python](./LeetCode/167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/twoSum.py) | Array, Two Pointers |
+| 0169 | **Majority Element** | 🟢 Easy | [Python](./LeetCode/169.%20Majority%20Element/majorityElement.py) | Array, Hash Table |
 | 0217 | **Contains Duplicate** | 🟢 Easy | [Python](./LeetCode/217.%20Contains%20Duplicate/containsDuplicate.py) | Array, Hash Table |
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |

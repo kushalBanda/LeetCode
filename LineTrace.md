@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 120
-- Total Directories: 57
-- File Extensions: .md: 14, .png: 68, .py: 34, .java: 1, .go: 2
+- Total Files: 127
+- Total Directories: 60
+- File Extensions: .md: 14, .png: 71, .py: 38, .java: 1, .go: 2
 
 ### Directory Tree
 ```
@@ -51,6 +51,9 @@
    │  ├── 605. Can Place Flowers
    │  │  ├── canPlaceFlowers.py
    │  │  └── canPlaceFlowers.png
+   │  ├── 121. Best Time to Buy and Sell Stock
+   │  │  ├── maxProfit.png
+   │  │  └── maxProfit.py
    │  ├── 1768. Merge Strings Alternately
    │  │  ├── mergeAlternately.png
    │  │  └── mergeAlternately.py
@@ -83,6 +86,13 @@
    │    ├── validPalindrome.py
    │    └── validPalindrome.png
   ├── reCode
+   │  ├── 169. Majority Element
+   │  │  ├── majorityElement.py
+   │  │  ├── majorityElement.png
+   │  │  └── majorElement_2.py
+   │  ├── 121. Best Time to Buy and Sell Stock
+   │  │  ├── maxProfit.png
+   │  │  └── maxProfit.py
    │  ├── 560. Subarray Sum Equals K
    │  │  ├── subarraySum.py
    │  │  └── subarraySum.png

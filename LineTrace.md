@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 127
-- Total Directories: 60
-- File Extensions: .md: 14, .png: 71, .py: 38, .java: 1, .go: 2
+- Total Files: 140
+- Total Directories: 63
+- File Extensions: .md: 15, .png: 82, .py: 39, .java: 1, .go: 2
 
 ### Directory Tree
 ```
@@ -73,6 +73,9 @@
    │  ├── 151. Reverse Words in a String
    │  │  ├── reverseWords.py
    │  │  └── reverseWords.png
+   │  ├── 128. Longest Consecutive Sequence
+   │  │  ├── longestConsecutive.py
+   │  │  └── longestConsecutive.png
    │  ├── 876. Middle of the Linked List
    │  │  ├── middleNode.py
    │  │  └── middleNode.png
@@ -162,6 +165,19 @@
       │    └── Document DB.png
      ├── CAP Theorem
       │  └── CAP.md
+     ├── DB Indexing
+      │  ├── dbIndexing.md
+      │  └── assets
+      │    ├── Geohasing.png
+      │    ├── Hash Index.png
+      │    ├── DB Indexing.png
+      │    ├── Inverted Index.png
+      │    ├── Flow Chart.png
+      │    ├── QuadTrees.png
+      │    ├── B-Tree.png
+      │    ├── R-Tree.png
+      │    ├── How do indexes speed up queries?.png
+      │    └── Geospatial Indexes.png
      ├── Caching
       │  ├── Caching.md
       │  └── assets

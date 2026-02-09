@@ -11,7 +11,7 @@
 
 **A comprehensive repository mastering Data Structures, Algorithms, System Design, and Design Patterns.**
 
-[Algorithms](#-algorithms--leetcode) • [System Design](#-system-design) • [Design Patterns](#-design-patterns) • [Getting Started](#-getting-started)
+[Algorithms](#-algorithms--leetcode) • [System Design](#-system-design) • [ML System Design](#-ml-system-design) • [Design Patterns](#-design-patterns) • [Getting Started](#-getting-started)
 
 </div>
 
@@ -113,6 +113,18 @@ A comprehensive analysis of a ride-sharing platform.
 - **Core Requirement:** Real-time driver matching & location tracking.
 - **Key Constraints:** Low latency, high consistency, heavy write throughput.
 - **Diagrams:** High-level architecture, database schema, and component interactions.
+
+---
+
+## 🤖 ML System Design
+
+Machine learning system design case studies focused on scalable data, modeling, and inference architectures.
+
+### 🛡️ **[Bot Detection](./ML%20System%20Design/Bot%20Detection/botDetection.md)**
+Design of a bot detection system for social platforms.
+- **Problem Focus:** Distinguish legitimate users from automated or malicious bot behavior.
+- **System Scope:** Data and feature pipelines, modeling strategy, inference, and evaluation.
+- **Artifacts:** End-to-end architecture and flow diagrams.
 
 ---
 

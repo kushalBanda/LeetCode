@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-25-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-26-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -83,6 +83,7 @@ A collection of strictly typed, efficient solutions.
 | 0680 | **Valid Palindrome II** | 🟢 Easy | [Python](./LeetCode/680.%20Valid%20Palindrome%20II/validPalindrome.py) | String, Two Pointers |
 | 0876 | **Middle of the Linked List** | 🟢 Easy | [Python](./LeetCode/876.%20Middle%20of%20the%20Linked%20List/middleNode.py) | Linked List, Two Pointers |
 | 1071 | **Greatest Common Divisor of Strings** | 🟢 Easy | [Python](./LeetCode/1071.%20Greatest%20Common%20Divisor%20of%20Strings/gcdOfStrings.py) | Math, String |
+| 1249 | **Minimum Remove to Make Valid Parentheses** | 🟡 Medium | [Python](./LeetCode/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses/minRemoveToMakeValid.py) | String, Stack |
 | 1431 | **Kids With the Greatest Number of Candies** | 🟢 Easy | [Python](./LeetCode/1431.%20Kids%20With%20the%20Greatest%20Number%20of%20Candies/kidsWithCandies.py) | Array |
 | 1768 | **Merge Strings Alternately** | 🟢 Easy | [Python](./LeetCode/1768.%20Merge%20Strings%20Alternately/mergeAlternately.py) | Two Pointers, String |
 

@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-27-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-28-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -63,6 +63,7 @@ A collection of strictly typed, efficient solutions.
 | 0013 | **Roman to Integer** | 🟢 Easy | [Python](./LeetCode/13.%20Roman%20to%20Integer/romanToInteger.py) | Hash Table, Math |
 | 0014 | **Longest Common Prefix** | 🟢 Easy | [Python](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.py), [Go](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.go) | String |
 | 0015 | **3Sum** | 🟡 Medium | [Python](./LeetCode/15.%203Sum/3Sum.py) | Array, Two Pointers |
+| 0027 | **Remove Element** | 🟢 Easy | [Python](./LeetCode/27.%20Remove%20Element/removeElement.py) | Array, Two Pointers |
 | 0043 | **Multiply Strings** | 🟡 Medium | [Python](./LeetCode/43.%20Multiply%20Strings%20/multiply.py) | Math, String, Simulation |
 | 0053 | **Maximum Subarray** | 🟡 Medium | [Python](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.py), [Java](./LeetCode/53.%20Maximum%20Subarray/maxSubArray.java) | Array, Dynamic Programming, Divide and Conquer |
 | 0058 | **Length of Last Word** | 🟢 Easy | [Python](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.py), [Go](./LeetCode/58.%20Length%20of%20Last%20Word/lengthOfLastWord.go) | String |

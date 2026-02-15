@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-31-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-32-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -82,6 +82,7 @@ A collection of strictly typed, efficient solutions.
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |
 | 0345 | **Reverse Vowels of a String** | 🟢 Easy | [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py) | Two Pointers, String |
+| 0383 | **Ransom Note** | 🟢 Easy | [Python](./LeetCode/383.%20Ransom%20Note/canConstruct.py) | Hash Table, String, Counting |
 | 0392 | **Is Subsequence** | 🟢 Easy | [Python](./LeetCode/392.%20Is%20Subsequence/isSubsequence.py) | Two Pointers, String, Dynamic Programming |
 | 0560 | **Subarray Sum Equals K** | 🟡 Medium | [Python](./LeetCode/560.%20Subarray%20Sum%20Equals%20K/subarraySum.py) | Array, Hash Table, Prefix Sum |
 | 0605 | **Can Place Flowers** | 🟢 Easy | [Python](./LeetCode/605.%20Can%20Place%20Flowers/canPlaceFlowers.py) | Array, Greedy |

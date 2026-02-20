@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-37-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-38-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -84,6 +84,7 @@ A collection of strictly typed, efficient solutions.
 | 0217 | **Contains Duplicate** | 🟢 Easy | [Python](./LeetCode/217.%20Contains%20Duplicate/containsDuplicate.py) | Array, Hash Table |
 | 0228 | **Summary Ranges** | 🟢 Easy | [Python](./LeetCode/228.%20Summary%20Ranges/summaryRanges.py) | Array |
 | 0238 | **Product of Array Except Self** | 🟡 Medium | [Python](./LeetCode/238.%20Product%20of%20Array%20Except%20Self/productExceptSelf.py) | Array, Prefix Sum |
+| 0242 | **Valid Anagram** | 🟢 Easy | [Python](./LeetCode/242.%20Valid%20Anagram/isAnagram.py) | Hash Table, String, Sorting |
 | 0290 | **Word Pattern** | 🟢 Easy | [Python](./LeetCode/290.%20Word%20Pattern/wordPattern.py) | Hash Table, String |
 | 0344 | **Reverse String** | 🟢 Easy | [Python](./LeetCode/344.%20Reverse%20String/reverseString.py) | Two Pointers, String |
 | 0345 | **Reverse Vowels of a String** | 🟢 Easy | [Python](./LeetCode/345.%20Reverse%20Vowels%20of%20a%20String/reverseVowels.py) | Two Pointers, String |

@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-40-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-41-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -59,6 +59,7 @@ A collection of strictly typed, efficient solutions.
 | :--: | :--- | :---: | :---: | :--- |
 | 0001 | **Two Sum** | 🟢 Easy | [Python](./LeetCode/1.%20Two%20Sum/twoSum.py) | Array, Hash Table |
 | 0003 | **Longest Substring Without Repeating Characters** | 🟡 Medium | [Python](./LeetCode/3.%20Longest%20Substring%20Without%20Repeating%20Characters/lengthOfLongestSubstring.py) | Hash Table, String, Sliding Window |
+| 0005 | **Longest Palindromic Substring** | 🟡 Medium | [Python](./LeetCode/5.%20Longest%20Palindromic%20Substring/longestPalindrome.py) | String, Dynamic Programming |
 | 0009 | **Palindrome Number** | 🟢 Easy | [Python](./LeetCode/9.%20Palindrome%20Number/palindromeNumber.py) | Math |
 | 0013 | **Roman to Integer** | 🟢 Easy | [Python](./LeetCode/13.%20Roman%20to%20Integer/romanToInteger.py) | Hash Table, Math |
 | 0014 | **Longest Common Prefix** | 🟢 Easy | [Python](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.py), [Go](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.go) | String |

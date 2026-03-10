@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 217
-- Total Directories: 100
-- File Extensions: .md: 16, .png: 121, .py: 72, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 219
+- Total Directories: 101
+- File Extensions: .md: 16, .png: 122, .py: 73, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -52,6 +52,9 @@
    │  ├── 134. Gas Station
    │  │  ├── canCompleteCircuit.png
    │  │  └── canCompleteCircuit.py
+   │  ├── 101. Symmetric Tree
+   │  │  ├── isSymmetric.png
+   │  │  └── isSymmetric.py
    │  ├── 49. Group Anagrams
    │  │  ├── groupAnagrams.py
    │  │  └── groupAnagrams.png

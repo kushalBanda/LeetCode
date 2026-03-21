@@ -4,7 +4,7 @@
 
 ![Language](https://img.shields.io/badge/Language-Python%203-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Solved-52-green?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Solved-53-green?style=for-the-badge)
 ![Patterns](https://img.shields.io/badge/Patterns-2-blueviolet?style=for-the-badge)
 ![Systems](https://img.shields.io/badge/Systems-2-ff69b4?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
@@ -64,6 +64,7 @@ A collection of strictly typed, efficient solutions.
 | 0013 | **Roman to Integer** | 🟢 Easy | [Python](./LeetCode/13.%20Roman%20to%20Integer/romanToInteger.py) | Hash Table, Math |
 | 0014 | **Longest Common Prefix** | 🟢 Easy | [Python](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.py), [Go](./LeetCode/14.%20Longest%20Common%20Prefix/longestCommonPrefix.go) | String |
 | 0015 | **3Sum** | 🟡 Medium | [Python](./LeetCode/15.%203Sum/3Sum.py) | Array, Two Pointers |
+| 0017 | **Letter Combinations of a Phone Number** | 🟡 Medium | [Python](./LeetCode/17.%20Letter%20Combinations%20of%20a%20Phone%20Number/letterCombinations.py) | Hash Table, String, Backtracking |
 | 0020 | **Valid Parentheses** | 🟢 Easy | [Python](./LeetCode/20.%20Valid%20Parentheses/isValid.py) | String, Stack |
 | 0021 | **Merge Two Sorted Lists** | 🟢 Easy | [Python](./LeetCode/21.%20Merge%20Two%20Sorted%20Lists/mergeTwoLists.py) | Linked List, Recursion |
 | 0026 | **Remove Duplicates from Sorted Array** | 🟢 Easy | [Python](./LeetCode/26.%20Remove%20Duplcates%20from%20Sorted%20Array/removeDuplicates.py) | Array, Two Pointers |

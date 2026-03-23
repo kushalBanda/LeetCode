@@ -1,9 +1,9 @@
 # LineTrace Codebase Analysis
 
 ### File Structure Summary
-- Total Files: 221
-- Total Directories: 102
-- File Extensions: .md: 16, .png: 123, .py: 74, .java: 1, .go: 2, .ts: 3, .sql: 1
+- Total Files: 229
+- Total Directories: 106
+- File Extensions: .md: 16, .png: 127, .py: 78, .java: 1, .go: 2, .ts: 3, .sql: 1
 
 ### Directory Tree
 ```
@@ -70,6 +70,9 @@
    │  ├── 9. Palindrome Number
    │  │  ├── palindromeNumber.png
    │  │  └── palindromeNumber.py
+   │  ├── 17. Letter Combinations of a Phone Number
+   │  │  ├── letterCombinations.py
+   │  │  └── letterCombinations.png
    │  ├── 344. Reverse String
    │  │  ├── reverseString.py
    │  │  └── reverseString.png
@@ -151,6 +154,9 @@
    │  ├── 383. Ransom Note
    │  │  ├── canConstruct.png
    │  │  └── canConstruct.py
+   │  ├── 21. Merge Two Sorted Lists
+   │  │  ├── mergeTwoLists.png
+   │  │  └── mergeTwoLists.py
    │  ├── 80. Remove Duplicates from Sorted Array II
    │  │  ├── removeDuplicates.png
    │  │  └── removeDuplicates.py
@@ -179,9 +185,12 @@
    │  ├── 1431. Kids With the Greatest Number of Candies
    │  │  ├── kidsWithCandies.py
    │  │  └── kidsWithCandies.png
-   │  └── 125. Valid Palindrome
-   │    ├── validPalindrome.py
-   │    └── validPalindrome.png
+   │  ├── 125. Valid Palindrome
+   │  │  ├── validPalindrome.py
+   │  │  └── validPalindrome.png
+   │  └── 1266. Minimum Time Visiting All Points
+   │    ├── minTimeToVisitAllPoints.py
+   │    └── minTimeToVisitAllPoints.png
   ├── ML System Design
    │  ├── Bot Detection
    │  │  ├── botDetection.md
@@ -216,6 +225,9 @@
    │  ├── 1071. Greatest Common Divisor of Strings
    │  │  ├── gcdOfStrings.py
    │  │  └── gcdOfStrings.png
+   │  ├── 21. Merge Two Sorted Lists
+   │  │  ├── mergeTwoLists.png
+   │  │  └── mergeTwoLists.py
    │  ├── 71. Simplify Path
    │  │  ├── simplifyPath.png
    │  │  └── simplifyPath.py
